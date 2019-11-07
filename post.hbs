@@ -27,11 +27,7 @@ into the {body} of the default.hbs template --}}
 
         {{!-- Email subscribe form at the bottom of the page --}}
         {{#if @labs.members}}
-        <section class="subscribe-form">
-            <h3 class="subscribe-form-title">Subscribe to {{@site.title}}</h3>
-            <p>Get the latest posts delivered right to your inbox</p>
-            {{subscribe_form placeholder="becassine@dinepont.fr"}}
-        </section>
+          {{> subscribe-form}}
         {{/if}}
 
         <footer class="post-footer">
