@@ -4,7 +4,7 @@ This is Massively, a text-heavy, article-oriented design built around a huge bac
 image and scroll effects powered by Scrollex.
 
 #### This fork based on last master of 26/07/2019 supports both French and English locales
-##### Features to add: integration with newsletter app [Listmonk](https://github.com/knadh/listmonk), and with commenting system [Isso](https://github.com/posativ/isso).
+##### Feature added: Integration with commenting system [Isso](https://github.com/posativ/isso). Feature to add: integration with newsletter app [Listmonk](https://github.com/knadh/listmonk). 
 
 ![Massively](https://user-images.githubusercontent.com/120485/49293031-7276b000-f4e1-11e8-8b71-43dc53c67f00.png)
 
