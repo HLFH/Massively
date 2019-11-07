@@ -5,12 +5,7 @@ image and scroll effects powered by Scrollex.
 
 ## This fork supports both French and English locales
 
-&nbsp;
-
-![image](https://user-images.githubusercontent.com/120485/49293031-7276b000-f4e1-11e8-8b71-43dc53c67f00.png)
-
-
-&nbsp;
+![Massively](https://user-images.githubusercontent.com/120485/49293031-7276b000-f4e1-11e8-8b71-43dc53c67f00.png)
 
 # First time using a Ghost theme?
 
