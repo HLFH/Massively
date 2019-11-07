@@ -1,9 +1,9 @@
-# Massively
+# Massively with i18n
 
 This is Massively, a text-heavy, article-oriented design built around a huge background
-image and scroll effects powered by Scrollex. Originally created by [@ajlkn](https://twitter.com/ajlkn) for [HTML5 UP](https://html5up.net) and later ported to [Ghost](https://ghost.org)
+image and scroll effects powered by Scrollex.
 
-**Demo: https://massively.ghost.io**
+## This fork supports both French and English locales
 
 &nbsp;
 
@@ -56,9 +56,6 @@ gulp zip
 yarn test
 ```
 
-Original template files and design by [@ajlkn](https://twitter.com/ajlkn)
-
-
 # Copyright & License
 
-Copyright (c) 2013-2019 [HTML5 UP](https://htmlup.net) & [Ghost Foundation](https://ghost.org) - This theme is licensed under both the [MIT and Creative Commons Attribution 3.0](LICENSE). Please note that the terms of the Creative Commons license require that you maintain the footer attribution to freely use this theme.
+Copyright (c) 2019 [Gaspard d'Hautefeuille](https://gaspard.dhautefeuille.eu) & [Ghost Foundation](https://ghost.org) - This theme is licensed under both the [MIT and Creative Commons Attribution 3.0](LICENSE). Please note that the terms of the Creative Commons license require that you maintain the footer attribution to freely use this theme.
